@@ -29,7 +29,7 @@
   - **Power BI & Tableau** (business dashboards, data storytelling)
   - **CRM Systems** (data-driven customer management)
   - **Logistics Analytics** (tracking, efficiency, optimization)
-  - **Python & Automation** (workflows with n8n, Make.com)
+  - **Python & Automation** 
 - Helping companies and entrepreneurs **automate, analyze, and scale** with data.
 
 ---
