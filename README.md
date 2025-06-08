@@ -53,11 +53,10 @@
 ---
 
 ## 🛠️ What I Do
-
+-**Data Warehouse 
 - **Data Analytics & Visualization** – KPIs, dashboards, and custom reports.
 - **CRM Data Management** – Integrate, analyze, and automate customer pipelines.
 - **Logistics Optimization** – Tracking, reporting, and actionable logistics data.
-- **Automation** – Workflows (Telegram, WhatsApp, Google Sheets, Email, etc.).
 - **Business Intelligence** – End-to-end Power BI, Tableau solutions.
 - **Consulting** – Growth, digital transformation, and process improvement.
 
@@ -65,8 +64,8 @@
 
 ## ⭐ Recent Projects
 
-- **Lovable.AI Nutrition App:** AI-powered nutrition analysis and tracking.
-- **Business Automation:** n8n/Make.com solutions for lead capture and reporting.
+- **Data Warehouse Project 
+- **Data Analytics Project
 - **CRM Dashboards:** Integrated CRM analytics for customer-driven businesses.
 - **Logistics Data Solutions:** Automated logistics tracking and KPI dashboards.
 
@@ -84,12 +83,12 @@
 
 ---
 
-## 🤝 Let’s Connect!
+
 
 ## 🤝 Let’s Connect!
 
 - 🌐 [dibdatahub.com](https://dibdatahub.com)
-- 📧 [infor@dibdatahub.com](mailto:infor@dibdatahub.com)
+- 📧 [info@dibdatahub.com](mailto:infor@dibdatahub.com)
 - [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/hussdib)
 - [LinkedIn: Hussein Dib](https://www.linkedin.com/in/dondib147963258/)
 
